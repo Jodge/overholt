@@ -5,7 +5,7 @@ Flask-Mail==0.7.3
 Flask-Principal==0.3.3
 Flask-SQLAlchemy==0.16
 Flask-Script==0.5.3
-Flask-Security==1.6.4
+Flask-Security==3.0.0
 Flask-WTF==0.8
 Jinja2==2.7
 Mako==0.8.1
